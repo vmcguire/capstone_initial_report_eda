@@ -76,4 +76,4 @@ These models have demonstrated acceptable performance and do not suffer from sig
 
 ## Notebook Link:
 
-For a detailed view of the entire project, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning, please refer to the Jupyter Notebook available at [View Home Equity Line of Credit Default Prediction.ipynb](https://github.com/vmcguire/)
+For a detailed view of the entire project, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning, please refer to the Jupyter Notebook available at [View Capstone Initial Report - McGuire (Home Equity Line of Credit Default Prediction)](https://github.com/vmcguire/capstone_initial_report_eda)
