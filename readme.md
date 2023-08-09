@@ -76,4 +76,4 @@ These models have demonstrated acceptable performance and do not suffer from sig
 
 ## Notebook Link:
 
-For a detailed view of the entire project, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning, please refer to the Jupyter Notebook available at [View Capstone_McGuire_HELOC.ipynb)](https://github.com/vmcguire/capstone_initial_report_eda)
+For a detailed view of the entire project, including data exploration, preprocessing, model training, evaluation, and hyperparameter tuning, please refer to the Jupyter Notebook available at [View Capstone_McGuire_HELOC.ipynb)](https://github.com/vmcguire/capstone_initial_report_eda/blob/main/Capstone_McGuire_HELOC.ipynb)
